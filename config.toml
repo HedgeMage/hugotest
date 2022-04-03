@@ -3,3 +3,20 @@ languageCode = 'en-us'
 title = 'Hugo Site #1'
 theme = "hugo-coder"
 colorScheme = "auto"
+[params]
+  author = "Abhi"
+  info = "13 year old developer. Big dreams."
+  description = "My personal website. Yay?"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.png"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2022
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false

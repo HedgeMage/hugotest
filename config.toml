@@ -2,3 +2,4 @@ baseURL = 'http://urmomis.online/'
 languageCode = 'en-us'
 title = 'Hugo Site #1'
 theme = "hugo-coder"
+colorScheme = "auto"

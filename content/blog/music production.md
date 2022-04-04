@@ -2,6 +2,7 @@
 title = "Music Production"
 description = "What's in it?"
 date = "2022-04-03"
+font: @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
 aliases = ["first-post", "music", "about"]
 author = "Abhi"
 +++

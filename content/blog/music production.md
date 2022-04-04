@@ -12,6 +12,8 @@ author = "Abhi"
 
   Alright, do you think he got that background beat with just his voice? Do you think he got those pitch mods with his voice? I think not.
   Thirty Seconds to Mars did an amazing job on the vocals. But, Illenium, the producer of this song, decided to head to the studio with 30M, and opened up some software programs. For Illenium, that would be Lennar Sylenth1, and FL studio. With countless hours of work, he fine-tuned 30M’s vocals, and added background music to it. Background audio? 
+
+  
   {{< soundcloud 1244267716 >}}
   Now, what do you think? If that background audio hadn’t been there, would you have liked the song? Me neither. 
   

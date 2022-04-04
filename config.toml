@@ -8,7 +8,7 @@ colorScheme = "auto"
   info = "13 year old developer. Big dreams."
   description = "My personal website. Yay?"
   keywords = "blog,developer,personal"
-  avatarurl = "https://github.com/AckKid/cdn/blob/main/hugo1/ostrich.png?raw=true"
+  avatarurl = "images/ostrich.jpg"
   #gravatar = "john.doe@example.com"
 
   since = 2022

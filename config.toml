@@ -10,6 +10,7 @@ colorScheme = "auto"
   keywords = "blog,developer,personal"
   avatarurl = "/images/ostrich.png"
   #gravatar = "john.doe@example.com"
+  custom_css = ["css/custom_style.css"]
 
   since = 2022
 

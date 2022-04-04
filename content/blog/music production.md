@@ -1,11 +1,9 @@
-
 +++
 title = "Music Production"
 description = "What's in it?"
 date = "2022-04-03"
 aliases = ["first-post", "music", "about"]
 author = "Abhi"
-font-family: 'Open Sans', sans-serif;
 +++
 
   Music production. The production of music. The place many young aspiring musicians haven’t taken into account. Let's listen to some things.

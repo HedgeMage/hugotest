@@ -1,6 +1,6 @@
 baseURL = 'http://urmomis.online/'
 languageCode = 'en-us'
-title = 'Hugo Site #1'
+title = 'Ostrichization'
 theme = "hugo-coder"
 colorScheme = "auto"
 [params]

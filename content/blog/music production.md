@@ -9,7 +9,7 @@ author = "Abhi"
   Music production. The production of music. The place many young aspiring musicians haven’t taken into account. Let's listen to some things.
 
   Listen to [this](https://www.youtube.com/watch?v=6FYCVdQrOYM).
-  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1129859134&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/illeniumofficial" title="ILLENIUM" target="_blank" style="color: #cccccc; text-decoration: none;">ILLENIUM</a> · <a href="https://soundcloud.com/illeniumofficial/illenium-thirty-seconds-to" title="ILLENIUM &amp; Thirty Seconds To Mars - Wouldn’t Change A Thing" target="_blank" style="color: #cccccc; text-decoration: none;">ILLENIUM &amp; Thirty Seconds To Mars - Wouldn’t Change A Thing</a></div>
+{{< soundcloud 1129859134 >}}
 
   Alright, do you think he got that background beat with just his voice? Do you think he got those pitch mods with his voice? I think not.
   Thirty Seconds to Mars did an amazing job on the vocals. But, Illenium, the producer of this song, decided to head to the studio with 30M, and opened up some software programs. For Illenium, that would be Lennar Sylenth1, and FL studio. With countless hours of work, he fine-tuned 30M’s vocals, and added background music to it. Background audio? 

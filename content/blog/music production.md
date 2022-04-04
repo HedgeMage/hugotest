@@ -8,7 +8,6 @@ author = "Abhi"
 
   Music production. The production of music. The place many young aspiring musicians haven’t taken into account. Let's listen to some things.
 
-  Listen to [this](https://www.youtube.com/watch?v=6FYCVdQrOYM).
 {{< soundcloud 1129859134 >}}
 
   Alright, do you think he got that background beat with just his voice? Do you think he got those pitch mods with his voice? I think not.

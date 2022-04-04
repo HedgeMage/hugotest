@@ -1,9 +1,11 @@
+
 +++
 title = "Music Production"
 description = "What's in it?"
 date = "2022-04-03"
 aliases = ["first-post", "music", "about"]
 author = "Abhi"
+font-family: 'Open Sans', sans-serif;
 +++
 
   Music production. The production of music. The place many young aspiring musicians haven’t taken into account. Let's listen to some things.
@@ -15,6 +17,8 @@ author = "Abhi"
 
   
   {{< soundcloud 1244267716 >}}
+
+  
   Now, what do you think? If that background audio hadn’t been there, would you have liked the song? Me neither. 
   
   Beats are everything. Beats aren’t just the drums. The beats are the music. What does a producer do? **Mixing**, **mastering**, and **publishing.**

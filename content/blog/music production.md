@@ -5,7 +5,9 @@ date = "2022-04-03"
 aliases = ["first-post", "music", "about"]
 author = "Abhi"
 +++
-
+<style>
+  font-family: 'Open Sans', sans-serif;
+</style>
   Music production. The production of music. The place many young aspiring musicians haven’t taken into account. Let's listen to some things.
 
 {{< soundcloud 1129859134 >}}

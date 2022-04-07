@@ -1,3 +1,27 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://urmomis.online/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Ostrichization'
+theme = "hugo-coder"
+colorScheme = "auto"
+[params]
+  author = "Abhi"
+  info = "13 year old developer. Big dreams."
+  description = "My personal website. Yay?"
+  keywords = "blog,developer,personal"
+  avatarurl = "/images/ostrich.png"
+  #gravatar = "john.doe@example.com"
+  custom_css = ["css/custom_style.css"]
+
+  since = 2022
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+[menu]
+[[menu.main]]
+  identifier = 'blog'
+  name = 'Blog'
+  title = 'Blog'
+  url = '/blog/'
+  weight = -110
